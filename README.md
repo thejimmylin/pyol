@@ -6,6 +6,7 @@ to install:
     git clone https://github.com/j3ygithub/pyol
     python -m venv pyol
     cd pyol
+    Scripts\activate
     pip install -r requirements.txt
 
 to make a mail job:
