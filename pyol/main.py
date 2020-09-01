@@ -44,6 +44,7 @@ def mail_job():
     )
 
 schedule.every(5).seconds.do(mail_job)
+
 """
 This sends the Email every 5s.
 For more schedule example:
