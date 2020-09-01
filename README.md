@@ -2,6 +2,10 @@
 A simple python outlook script to schedule mails.
 > Windows OS & outlook needed.
 
+<p float="left">
+  <img src="https://github.com/j3ygithub/pyol/blob/master/docs/images/screenshot1.png?" width="70%">
+</p>
+
 ## Installation
 
 Windows:
