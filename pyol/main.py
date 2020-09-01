@@ -35,11 +35,11 @@ def mail_job():
     send_mail(
         subject='hello',
         body='hello world',
-        to='jimmy_lin@chief.com.tw',
-        cc='jimmy_lin@chief.com.tw',
+        to='b00502013@gmail.com',
+        cc='b00502013@gmail.com',
         attachments=[
-            r'C:\Users\jimmy_lin\Envs\pyol\pyol\testexcel.xlsx',
-            r'C:\Users\jimmy_lin\Envs\pyol\pyol\testword.docx',
+            r'C:\Users\jimmy_lin\envs\pyol\pyol\testexcel.xlsx',
+            r'C:\Users\jimmy_lin\envs\pyol\pyol\testword.docx',
         ]
     )
 
