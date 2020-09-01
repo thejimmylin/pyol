@@ -2,10 +2,6 @@
 A simple python outlook script to schedule mails.
 > Windows OS & outlook needed.
 
-<p float="left">
-  <img src="https://github.com/j3ygithub/pyol/blob/master/docs/images/screenshot1.png?" width="70%">
-</p>
-
 ## Installation
 
 Windows:
@@ -19,26 +15,12 @@ pip install -r C:\Users\jimmy_lin\repos\pyol\requirements.txt
 
 ## Configuration
 
-pyol is easy to configure, like this:
+pyol is easy to configure, all you need to do is like:
 
-```
-[main.py]
-...
-def mail_job():
-    send_mail(
-        subject='hello',
-        body='hello world',
-        to='b00502013@gmail.com',
-        cc='b00502013@gmail.com',
-        attachments=[
-            r'C:\Users\jimmy_lin\repos\pyol\pyol\testexcel.xlsx',
-            r'C:\Users\jimmy_lin\repos\pyol\pyol\testword.docx',
-        ]
-    )
-    
-schedule.every(5).seconds.do(mail_job)
-...
-```
+<p float="left">
+  <img src="https://github.com/j3ygithub/pyol/blob/master/docs/images/screenshot1.png?" width="60%">
+</p>
+
 See pyol/main.py for more details.
 
 
