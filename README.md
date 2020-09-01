@@ -21,10 +21,11 @@ pyol is easy to configure, all you need to do is like:
   <img src="https://github.com/j3ygithub/pyol/blob/master/docs/images/screenshot1.png?" width="60%">
 </p>
 
+That's it, no more.
+
 See pyol/main.py for more details.
 
-
-## Run
+## Run it
 
 ```
 python C:\Users\jimmy_lin\repos\pyol\pyol\main.py
