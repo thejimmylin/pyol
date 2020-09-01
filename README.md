@@ -1,5 +1,5 @@
 # pyol
-A simple python outlook script to set mail schedule.
+A simple python outlook script to schedule mails.
 > Windows OS & outlook needed.
 
 <p float="left">
