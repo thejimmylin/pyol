@@ -17,22 +17,18 @@ git clone https://github.com/j3ygithub/pyol C:\Users\jimmy_lin\repos\pyol
 pip install -r C:\Users\jimmy_lin\repos\pyol\requirements.txt
 ```
 
-## Configure
+## Configuration
 
-Easily configure a mail job:
+pyol is easy to configure:
 
-main.py
+
 ```
-'''
+[main.py]
+...
 ...
 def mail_job():
-    """
-    Customize your mail job here.
-    Here comes an exmaple.
-    Note that when you use this on a windows PC, 
-    the format of attachments should be a list containing r-string like
-    [r'path1', r'path2'].
-    """
+...
+...
     send_mail(
         subject='hello',
         body='hello world',
@@ -44,10 +40,10 @@ def mail_job():
         ]
     )
 ...
-'''
+...
 ```
 
-Run it:
+## Run
 
 ```
 python C:\Users\jimmy_lin\repos\pyol\pyol\main.py
