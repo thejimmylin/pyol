@@ -38,8 +38,8 @@ def mail_job():
         to='b00502013@gmail.com',
         cc='b00502013@gmail.com',
         attachments=[
-            r'C:\Users\jimmy_lin\envs\pyol\pyol\testexcel.xlsx',
-            r'C:\Users\jimmy_lin\envs\pyol\pyol\testword.docx',
+            r'C:\Users\jimmy_lin\repos\pyol\pyol\testexcel.xlsx',
+            r'C:\Users\jimmy_lin\repos\pyol\pyol\testword.docx',
         ]
     )
 
