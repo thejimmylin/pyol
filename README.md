@@ -35,6 +35,8 @@ def mail_job():
 schedule.every(5).seconds.do(mail_job)
 ...
 ```
+See pyol/main.py for more details.
+
 
 ## Run
 
