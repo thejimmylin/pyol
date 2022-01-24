@@ -9,7 +9,7 @@ Windows:
 ```
 python -m venv C:\Users\jimmy_lin\envs\pyol
 C:\Users\jimmy_lin\envs\pyol\Scripts\activate
-git clone https://github.com/j3ygithub/pyol C:\Users\jimmy_lin\repos\pyol
+git clone https://github.com/j3ygh/pyol C:\Users\jimmy_lin\repos\pyol
 pip install -r C:\Users\jimmy_lin\repos\pyol\requirements.txt
 ```
 
@@ -18,7 +18,7 @@ pip install -r C:\Users\jimmy_lin\repos\pyol\requirements.txt
 pyol is easy to configure, all you need to do is like:
 
 <p float="left">
-  <img src="https://github.com/j3ygithub/pyol/blob/master/docs/images/screenshot1.png?" width="60%">
+  <img src="https://github.com/j3ygh/pyol/blob/master/docs/images/screenshot1.png?" width="60%">
 </p>
 
 That's it, no more.
@@ -37,11 +37,11 @@ Jimmy Lin <b00502013@gmail.com>
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/j3ygithub/](https://github.com/j3ygithub/)
+[https://github.com/j3ygh/](https://github.com/j3ygh/)
 
 ## Contributing
 
-1. Fork it (<https://github.com/j3ygithub/rj3y/fork>)
+1. Fork it (<https://github.com/j3ygh/rj3y/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
